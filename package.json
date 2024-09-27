@@ -26,8 +26,7 @@
     "start:debug": "evershop start --debug",
     "test": "jest --workspace=@evershop/evershop",
     "cypress": "cypress run",
-    "lint": "eslint --fix --ext .js,.jsx .",
-    "prepare": "husky install"
+    "lint": "eslint --fix --ext .js,.jsx ."
   },
   "author": "The Nguyen (https://evershop.io)",
   "license": "GNU GENERAL PUBLIC LICENSE 3.0",
